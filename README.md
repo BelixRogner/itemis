@@ -2,9 +2,9 @@
 
 usage
 -----
-run TaxApp.py
-enter one line/product at a time
-press enter (don't give any input) to print the receipt
+- run TaxApp.py
+- enter one line/product at a time
+- press enter (don't give any input) to print the receipt
 
 
 assumptions
