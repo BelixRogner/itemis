@@ -1,0 +1,5 @@
+1 computer: 550.00
+10 imported bags: 0.00
+3 books: 1.50
+Sales Taxes: 50.00
+Total: 551.50

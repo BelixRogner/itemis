@@ -1,0 +1,4 @@
+1 imported box of chocolates: 10.50
+1 imported bottle of perfume: 59.40
+Sales Taxes: 12.40
+Total: 69.90

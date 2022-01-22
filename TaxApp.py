@@ -18,12 +18,12 @@ class TaxConfig:
     TaxConfigis a data class that contains information about parameters
     of the tax calculation.
     """
-    salesTaxRate = 10 # in percent
-    importDutyRate = 5 # in percent
+    salesTaxRate: int = 10 # in percent
+    importDutyRate: int = 5 # in percent
 
     # items which are exempt from sales tax
-    exemptProducts = ["magazine", "book", "food", "pill", "vaccine", "drug",
-                        "antibiotic", "chocolate", "milk"]
+    exemptProducts = ("magazine", "book", "food", "pill", "vaccine", "drug",
+                        "antibiotic", "chocolate", "milk")
 
 class TaxApp:
     def __init__(self, taxConfig):
