@@ -6,6 +6,9 @@ usage
 - enter one line/product at a time
 - press enter (don't give any input) to print the receipt
 
+unit tests
+-----
+- run tests.py
 
 assumptions
 -----
